@@ -31,7 +31,7 @@
 
     <properties>
         <paimon.version>1.1.1</paimon.version>
-        <hive.version>2.3.9</hive.version>
+        <hive.version>4.0.1</hive.version>
         <connector.name>connector.paimon</connector.name>
     </properties>
 
