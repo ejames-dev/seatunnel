@@ -70,10 +70,10 @@
         <system-rules.version>1.2.1</system-rules.version>
         <powermock.version>2.0.9</powermock.version>
         <slf4j.version>1.7.36</slf4j.version>
-        <log4j2.version>2.17.1</log4j2.version>
+        <log4j2.version>2.25.5</log4j2.version>
         <log4j2-disruptor.version>3.4.4</log4j2-disruptor.version>
         <log4j.version>1.2.17</log4j.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.5.34</logback.version>
         <commons-logging.version>1.2</commons-logging.version>
         <flink.1.13.6.version>1.13.6</flink.1.13.6.version>
         <flink.1.15.3.version>1.15.3</flink.1.15.3.version>
@@ -89,7 +89,7 @@
         <jersey.version>1.19</jersey.version>
         <javax.servlet.jap.version>2.1</javax.servlet.jap.version>
         <hadoop.binary.version>2.7</hadoop.binary.version>
-        <jackson.version>2.13.3</jackson.version>
+        <jackson.version>2.18.11</jackson.version>
         <lombok.version>1.18.36</lombok.version>
         <commons-compress.version>1.20</commons-compress.version>
         <avro.version>1.11.1</avro.version>
@@ -152,7 +152,7 @@
         <skipUT>false</skipUT>
         <skipIT>true</skipIT>
         <elasticsearch>7</elasticsearch>
-        <guava.version>27.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <auto-service.version>1.0.1</auto-service.version>
         <hadoop2.version>2.6.5</hadoop2.version>
         <seatunnel.shade.package>org.apache.seatunnel.shade</seatunnel.shade.package>
