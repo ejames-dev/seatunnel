@@ -26,7 +26,7 @@
     <artifactId>seatunnel-calcite</artifactId>
     <name>SeaTunnel : Shade : Calcite</name>
     <properties>
-        <calcite.version>1.38.0</calcite.version>
+        <calcite.version>1.42.0</calcite.version>
     </properties>
 
     <dependencies>
